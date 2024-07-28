@@ -1,0 +1,29 @@
+{
+    "name": "Infinity Space Boost",
+    "image": "https://danil1110.github.io/NFTcollcetion/NFTBoostItem.jpg",
+    "buttons": [
+      {
+        "label": "Possibly something.",
+        "uri": "https://t.me/InftSpaceBot/Infinity"
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "🖐 Multitap",
+        "value": "+5 Per Click"
+      },
+      {
+        "trait_type": "🔋 Energy Limit",
+        "value": "+1500 For Charge"
+      },
+      {
+        "trait_type": "⚡️ Recharging Speed",
+        "value": "+7 Per Second"
+      },
+      {
+        "trait_type": "🤖 Tap Bot",
+        "value": "x2 Times More Effective"
+      }
+    ],
+    "description": "Boost for the game. Just connect your wallet and activate the upgrades."
+}
