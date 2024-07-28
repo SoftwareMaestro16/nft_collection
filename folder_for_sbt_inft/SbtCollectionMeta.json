@@ -1,12 +1,10 @@
 {
-    "name": "Infinity Space Boost Collection",
-    "description": "Boost click power, increase energy bar, accelerate recharge, and enhance Tap Bot efficiency with our exclusive NFT collection. Collect and conquer!",
+    "name": "Infinity Soulbound Moment",
+    "description": "Mint Infinity SBT NFT for Fun.",
     "social_links": [
       "https://t.me/TokenInfinity",
       "https://t.me/TokenInfinityChat",
-      "https://t.me/InftSpaceBot/Infinity"
     ],
-    "image": "https://danil1110.github.io/NFTcollcetion/NFTBoostItem.jpg",
-    "cover_image": "https://danil1110.github.io/NFTcollcetion/psblsmth.jpg"
-  
+    "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_sbt_inft/IconCollection.jpg",
+    "cover_image": "https://softwaremaestro16.github.io/nft_collection/folder_for_sbt_inft/BannerCollection.jpg"
 }
