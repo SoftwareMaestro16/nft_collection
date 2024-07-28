@@ -1,29 +1,17 @@
 {
-    "name": "Infinity Space Boost",
-    "image": "https://danil1110.github.io/NFTcollcetion/NFTBoostItem.jpg",
+    "name": "Infinity SBT NFT",
+    "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_sbt_inft/SbtItem.jpg",
     "buttons": [
       {
-        "label": "Possibly something.",
-        "uri": "https://t.me/InftSpaceBot/Infinity"
+        "label": "Community",
+        "uri": "https://t.me/TokenInfinity"
       }
     ],
     "attributes": [
       {
-        "trait_type": "🖐 Multitap",
-        "value": "+5 Per Click"
-      },
-      {
-        "trait_type": "🔋 Energy Limit",
-        "value": "+1500 For Charge"
-      },
-      {
-        "trait_type": "⚡️ Recharging Speed",
-        "value": "+7 Per Second"
-      },
-      {
-        "trait_type": "🤖 Tap Bot",
-        "value": "x2 Times More Effective"
+        "trait_type": "Memorable",
+        "value": "True"
       }
     ],
-    "description": "Boost for the game. Just connect your wallet and activate the upgrades."
+    "description": "Commemorative NFT of the Infinity Project."
 }
