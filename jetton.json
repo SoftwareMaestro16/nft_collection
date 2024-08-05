@@ -1,0 +1,7 @@
+{
+  "name": "Holy Coin",
+  "symbol": "HOLY",
+  "decimals": "9",
+  "image": "https://cache.tonapi.io/imgproxy/r7CDPXKZpXTVhI9Qml41PSISxY8McUs3MBYrv9ZGJx4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvYmFmeWJlaWVqbzVxY3FxYmZ0cWl5bnV0bm5qNHJhemM2YXFibmZqNGlnZ3VtNHJqaHZ2bGs1dmJqZ2kvcGhvdG9fMjAyNC0wNy0yMl8xOC01Ny00OC5qcGc.webp",
+  "description": "Proof-Of-Liquidity holy coin on The Open Network"
+}
