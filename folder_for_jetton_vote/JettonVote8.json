@@ -1,7 +1,7 @@
 {
     "name": "Jetton 8 Vote",
     "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_jetton_vote/test1.jpg",
-    "description": "This SBT helps users use their voting history on the Jetton Vote platform as a reputation in the TON On-Chain. Эта SBT помогает пользователям использовать историю своих голосований на платформе Jetton Vote в качестве репутации в он-чейне TON."
+    "description": "This SBT helps users use their voting history on the Jetton Vote platform as a reputation in the TON On-Chain. Эта SBT помогает пользователям использовать историю своих голосований на платформе Jetton Vote в качестве репутации в он-чейне TON.",
     "buttons": [
     {
       "label": "jetton.vote",
