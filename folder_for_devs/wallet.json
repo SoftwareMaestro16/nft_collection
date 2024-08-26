@@ -1,0 +1,17 @@
+{
+    "content_type": "video/mp4",
+    "name": "Wallets Master",
+    "image": "https://ton-devrel.s3.eu-central-1.amazonaws.com/tal-tutorials/1-wallet/image.jpg",
+    "attributes": [
+      {
+        "trait_type": "Talent",
+        "value": "100"
+      },
+      {
+        "trait_type": "Master",
+        "value": "Wallets"
+      }
+    ],
+    "content_url": "https://ton-devrel.s3.eu-central-1.amazonaws.com/tal-tutorials/1-wallet/video.mp4",
+    "description": "Congratulations on completing the first TON Hello World tutorial, now proficient in creating and managing TON wallets, and ready to tackle smart contracts and bot development! "
+  }
