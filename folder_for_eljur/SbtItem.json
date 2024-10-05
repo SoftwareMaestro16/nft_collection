@@ -1,0 +1,11 @@
+{
+    "name": "Study Bonus",
+    "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_eljur/nft-image.jpg",
+    "attributes": [
+      {
+        "trait_type": "Memorable",
+        "value": "True"
+      }
+    ],
+    "description": "Commemorative NFT for Study Achievement."
+}
