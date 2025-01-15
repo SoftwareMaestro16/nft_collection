@@ -1,7 +1,7 @@
 {
-  name: "Bitcoin Token",
-  symbol: "Bitcoin",
-  decimals: "9",
-  image: "https://violet-traditional-rabbit-103.mypinata.cloud/ipfs/QmUgZ3kWg36tCVSZeVKXkvsdXkn6dqigqjoBZto9Y8h37z",
-  description: "Official Bitcoin Token"
+  "name": "Sample Jetton",
+  "description": "For testing purposes",
+  "symbol": "JTN",
+  "decimals": 9,
+  "image": "https://violet-traditional-rabbit-103.mypinata.cloud/ipfs/QmUgZ3kWg36tCVSZeVKXkvsdXkn6dqigqjoBZto9Y8h37z"
 }
