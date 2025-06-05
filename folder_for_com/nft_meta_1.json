@@ -1,0 +1,17 @@
+{
+    "name": "SerpMolot",
+    "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_com/meta1.jpg",
+    "description": "The symbol of unity between labor and agriculture. Icon of a vanished empire.",
+    "buttons": [
+    {
+      "label": "Redmint",
+      "uri": "https://t.me/RedmintBot/Mint"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "USSR",
+      "value": "trueна"
+    }
+  ]
+}
