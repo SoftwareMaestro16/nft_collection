@@ -1,0 +1,17 @@
+{
+    "name": "KPSScore",
+    "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_com/meta5.png",
+    "description": "The heart of the machine. The party that led millions into a new world.",
+    "buttons": [
+    {
+      "label": "Redmint",
+      "uri": "https://t.me/RedmintBot/Mint"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "USSR",
+      "value": "trueна"
+    }
+  ]
+}
