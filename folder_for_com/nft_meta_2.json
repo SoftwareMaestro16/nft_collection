@@ -1,0 +1,17 @@
+{
+    "name": "UnionSeal",
+    "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_com/meta3.png",
+    "description": "The emblem of a world-spanning state. Encircled by wheat, crowned by a red star.",
+    "buttons": [
+    {
+      "label": "Redmint",
+      "uri": "https://t.me/RedmintBot/Mint"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "USSR",
+      "value": "trueна"
+    }
+  ]
+}
