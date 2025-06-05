@@ -1,0 +1,17 @@
+{
+    "name": "LeninRise",
+    "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_com/meta2.png",
+    "description": "The mind that moved history. A silhouette forever pointing toward the future.",
+    "buttons": [
+    {
+      "label": "Redmint",
+      "uri": "https://t.me/RedmintBot/Mint"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "USSR",
+      "value": "trueна"
+    }
+  ]
+}
