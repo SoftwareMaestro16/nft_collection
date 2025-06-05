@@ -1,0 +1,17 @@
+{
+    "name": "Komsomol",
+    "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_com/meta4.png",
+    "description": "Youth forged in ideology. A badge of loyalty, pride, and purpose.",
+    "buttons": [
+    {
+      "label": "Redmint",
+      "uri": "https://t.me/RedmintBot/Mint"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "USSR",
+      "value": "trueна"
+    }
+  ]
+}
