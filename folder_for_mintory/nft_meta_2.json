@@ -1,0 +1,17 @@
+{
+    "name": "Celestial Core",
+    "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_mintory/meta2.png",
+    "description": "A radiant crystal forged in the depths of the blockchain, glowing with untapped energy. This shard holds the power of mystery and rarity, a timeless gem destined to illuminate your digital collection.",
+    "buttons": [
+    {
+      "label": "Mintory",
+      "uri": "https://t.me/Mintory/Mint"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Сrystal",
+      "value": "true"
+    }
+  ]
+}
