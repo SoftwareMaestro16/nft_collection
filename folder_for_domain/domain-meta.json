@@ -1,0 +1,17 @@
+{
+  "buttons": [
+    {
+      "label": "Manage",
+      "uri": "https://dns.tonkeeper.com"
+    }
+  ],
+  "name": "domain.net",
+  "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_domain/domain-logo.png",
+  "description": "A .net blockchain domain at TON",
+  "attributes": [
+    {
+      "trait_type": "length",
+      "value": "6"
+    }
+  ]
+}
