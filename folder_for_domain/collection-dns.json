@@ -1,5 +1,6 @@
 {
   "description": "*.net domains",
   "name": "NET DNS Domains",
-  "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_domain/logo-net.png"
+  "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_domain/logo-net.png",
+  "symbol": ".net"
 }
